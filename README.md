@@ -29,4 +29,4 @@
 
 1️ *Clone the Repository*
 
-git clone https://github.com/gnanasundari36/product-catalog-with-mongodb.git
+git clone https://github.com/gnanasundari36/product_catalog.git
